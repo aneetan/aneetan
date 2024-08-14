@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Python Data Fundamentals<br>👯 I’m looking to collaborate on: Python programming and learning new tools and libraries<br>🌱 I’m currently learning: Python packages and SQL<br>💬 Ask me about: Java Programming and Basics of Python<br>⚡ Fun fact: I love to code and find creative solutions to complex problems!<br><br>
+🔭 I’m currently working on: Python Data Fundamentals<br>👯 I’m looking to collaborate on: Python programming and learning new tools and libraries<br>🌱 I’m currently learning: Python packages<br>💬 Ask me about: Java Programming, SQL and Basics of Python<br>⚡ Fun fact: I love to code and find creative solutions to complex problems!<br><br>
 
 
 ## 🌐 Socials:
